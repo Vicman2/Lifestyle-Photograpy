@@ -144,7 +144,7 @@ body{
     color: #F3E0DC;
 }
 .service span{
-    margin-top: 50px;
+    margin-top: 45px;
 }
 .servicesHeader{
     font-family: 'Playfair Display';
@@ -157,7 +157,7 @@ body{
 .spec_image_container{
     position: relative;
     width: 80%;
-    height: 700px;
+    height: 500px;
     margin: 30px auto;
 }
 .spec_image_container img{
@@ -172,7 +172,7 @@ body{
     font-family: 'Playfair Display';
     font-style: normal;
     font-weight: normal;
-    font-size: 40px;
+    font-size: 30px;
     line-height: 53px;
     color: #F3E0DC;
     margin-bottom: 0;
@@ -364,6 +364,9 @@ body{
         font-size: 20px;
         line-height: 40px;
 
+    }
+    .service span{
+        margin-right: 10px;
     }
     .servicesHeader{
         font-size: 30px;
