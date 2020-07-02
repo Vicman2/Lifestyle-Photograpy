@@ -206,7 +206,7 @@ body{
     margin-bottom: 17px;
     color: #F3E0DC;
     margin-left: 0;
-    margin-right: -5px;
+    margin-right: -3px;
 }
 .rotated_text_1{
     font-family: 'Playfair Display';
@@ -304,7 +304,7 @@ body{
     
 }
 .white_underline{
-    width: 86px;
+    width: 60px;
     height: 2px;
     display: inline-block;
     margin-right: 10px;
@@ -398,6 +398,10 @@ body{
         font-size: 18px;
         color: white;
     }
+    .rotated_text{
+        margin-right:-7px ;
+        margin-bottom: 21px;
+    }
     .rotated_text_1{
         font-size: 16px;
     }
@@ -414,5 +418,8 @@ body{
     }
     .right{
         font-size: 12px;
+    }
+    .white_underline{
+        width: 30px;
     }
 }
